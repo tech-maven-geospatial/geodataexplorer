@@ -1,0 +1,18 @@
+#showcase {
+  height: 100vh;
+}
+
+.landscape {
+  display: table;
+  height: 90vh;
+  width: 100%;
+}
+/* .overlay {
+  height: 100vh;
+  background: rgba(39, 129, 180, 0.733);
+} */
+.landing-content {
+  display: table-cell;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
